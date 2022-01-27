@@ -70,7 +70,8 @@ height = "400px"
   content = "Data solutions for R packages, Shiny apps, and other data science and research needs."
   align = "center"
 
-  overlay_color = "#56B4E9"  # An HTML color value.
+  overlay_color = "#56B4E9"  
+ # An HTML color value.
  # overlay_img = "headers/ocean.jpg"   Image path relative to your `static/img/` folder.
   overlay_filter = 0.2  
  # Darken the image. Value in range 0-1.
@@ -94,5 +95,6 @@ height = "400px"
   overlay_color = "#56B4E9"  
 # An HTML color value.
 #   overlay_img = "headers/cliff.jpg"   Image path relative to your `static/img/` folder.
-  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.2  
+# Darken the image. Value in range 0-1.
 +++
