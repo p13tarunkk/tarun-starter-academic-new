@@ -22,7 +22,7 @@ main:
  
   - name: Publications
      url: '#featured'
-#    url: 'publication'
+  #   url: 'publication'
     weight: 50
     
   - name: Contact
