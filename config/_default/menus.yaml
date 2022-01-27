@@ -21,12 +21,12 @@ main:
  
   - name: Publications
  #    url: '#featured'
-     url: 'featured'
+  #  url: 'featured'
     weight: 50
     
   - name: Contact
  #    url: '#contact'
-    url: 'contact'
+  #   url: 'contact'
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
