@@ -21,7 +21,8 @@ main:
  # weight: 40
  
   - name: Publications
-     url: '#featured'
+    url: '#publication'
+   #   url: '#featured'
   #   url: 'publication'
     weight: 50
     
