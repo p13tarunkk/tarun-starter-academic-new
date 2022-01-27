@@ -4,9 +4,9 @@ role: Product Manager, Photographer, Artist
 bio: Lead Product Manager @ Target | Redmart, Lazada (Alibaba Group) | Ola Cabs
   || Product Consultant & Coach @ Prodbee.com
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Product Management
+  - User Experience
+  - Psychology
 social:
   - icon: envelope
     icon_pack: fas
@@ -31,14 +31,14 @@ education:
     - course: Master of Business Administration (PGP - 2 yr M.B.A.)
       institution: Indian Institute of Management, Ahmedabad, India
       year: 2015
-    - course: Delhi University - Bachelor of Engineering (4 yr degree), Computer
-        Science
-      institution: Netaji Subhas Institute of Technology, Delhi, India
-      year: 2008
     - course: Master’s Degree (Foreign Exchange), Business Management. - Aviation
         business and Related Support Services
       institution: TBS, Toulouse, France (Ex-ESC Toulouse)
       year: ""
+    - course: Delhi University - Bachelor of Engineering (4 yr degree), Computer
+        Science
+      institution: Netaji Subhas Institute of Technology, Delhi, India
+      year: 2008
 email: tarun@prodbee.com
 superuser: true
 highlight_name: true
