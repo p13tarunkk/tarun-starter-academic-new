@@ -1,6 +1,7 @@
 ---
 title: Tarun Kumar
 role: Product Manager, Photographer, Artist
+avatar_filename: avatar1_large.png
 bio: Lead Product Manager @ Target | Redmart, Lazada (Alibaba Group) | Ola Cabs
   || Product Consultant & Coach @ Prodbee.com
 interests:
