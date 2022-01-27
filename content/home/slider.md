@@ -1,11 +1,14 @@
 ---
 widget: slider
-headless: true  # This file represents a page section.
+headless: true  
+# This file represents a page section.
 
 # ... Put Your Section Options Here (section position etc.) ...
 
-active = true  # Activate this widget? true/false
-weight = 10 # Order that this section will appear.
+active = true  
+# Activate this widget? true/false
+weight = 10 
+# Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
