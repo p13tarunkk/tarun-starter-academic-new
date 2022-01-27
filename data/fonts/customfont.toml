@@ -1,6 +1,5 @@
----
 # Theme metadata
-name = "Custom"
+name = "Customfont"
 
 # Is theme light or dark?
 light = true
@@ -21,4 +20,4 @@ home_section_even = "rgb(247, 247, 247)"
 [dark]
   link = "#bbdefb"
   link_hover = "#bbdefb"
-  ---
+
