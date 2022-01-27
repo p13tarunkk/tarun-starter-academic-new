@@ -1,9 +1,13 @@
 +++
 # Slider widget.
-widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 15 # Order that this section will appear.
+widget = "slider"  
+# See https://sourcethemes.com/academic/docs/page-builder/
+headless = true 
+# This file represents a page section.
+active = true  
+# Activate this widget? true/false
+weight = 15
+# Order that this section will appear.
 
 # Slide interval. 
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
@@ -23,8 +27,10 @@ height = "400px"
   align = "center"
 
   overlay_color = "#56B4E9"  # An HTML color value.
-  overlay_img = "headers/tree.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+  # overlay_img = "headers/tree.jpg"  
+  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.2  
+  # Darken the image. Value in range 0-1.
   
   cta_label = "See available workshops"
   cta_url = "/training"
@@ -36,13 +42,17 @@ height = "400px"
 [[item]]
   title = ""
   content = ""
-  align = "center"  # Choose `center`, `left`, or `right`.
+  align = "center"  
+  
+  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#56B4E9"  # An HTML color value.
-  overlay_img = "headers/canyon.JPG"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+  overlay_color = "#56B4E9"  
+ # An HTML color value.
+ # overlay_img = "headers/canyon.JPG"  Image path relative to your `static/img/` folder.
+  overlay_filter = 0.2  
+ # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -61,8 +71,9 @@ height = "400px"
   align = "center"
 
   overlay_color = "#56B4E9"  # An HTML color value.
-  overlay_img = "headers/ocean.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+ # overlay_img = "headers/ocean.jpg"   Image path relative to your `static/img/` folder.
+  overlay_filter = 0.2  
+ # Darken the image. Value in range 0-1.
   
   cta_label = "See available services"
   cta_url = "/consulting"
@@ -80,7 +91,8 @@ height = "400px"
   pages_title = "Recent talks and workshops"
   pages_type = "talk"
 
-  overlay_color = "#56B4E9"  # An HTML color value.
-  overlay_img = "headers/cliff.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_color = "#56B4E9"  
+# An HTML color value.
+#   overlay_img = "headers/cliff.jpg"   Image path relative to your `static/img/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 +++
