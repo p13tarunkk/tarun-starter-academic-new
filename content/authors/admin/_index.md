@@ -24,20 +24,22 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/tarun-product
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: IIM Ahmedabad
+    url: https://www.iima.ac.in/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: Master of Business Administration (PGP - 2 yr M.B.A.)
+      institution: Indian Institute of Management, Ahmedabad, India
+      year: 2015
+    - course: Delhi University - Bachelor of Engineering (4 yr degree), Computer
+        Science
+      institution: Netaji Subhas Institute of Technology, Delhi, India
       year: 2008
-email: ""
+    - course: Master’s Degree (Foreign Exchange), Business Management. - Aviation
+        business and Related Support Services
+      institution: TBS, Toulouse, France (Ex-ESC Toulouse)
+      year: ""
+email: tarun@prodbee.com
 superuser: true
 highlight_name: true
 ---
