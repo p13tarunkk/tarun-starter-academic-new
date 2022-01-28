@@ -24,10 +24,7 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove toolbar, delete/comment all instances of `filter_button` below.
 
-
 filter_button:
-    - name: All
-      tag: '*'
    - name: Photography
       tag: 'photo'
 design:
