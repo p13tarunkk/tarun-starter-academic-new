@@ -2,11 +2,11 @@
 widget: portfolio
 headless: true  # This file represents a page section.
 active: true
-weight = 65 
+weight : 65 
 
 # ... Put Your Section Options Here (title etc.) ...
-title = "Projects"
-subtitle = ""
+title : "Projects"
+subtitle : ""
 
   # Page type to display. E.g. project.
   page_type: project
