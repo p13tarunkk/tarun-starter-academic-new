@@ -26,8 +26,6 @@ filter_button:
       tag: Deep Learning
     - name: Other
       tag: Demo
-      
-{{< gallery album="photography" >}}
   
 ---
-
+{{< gallery album="photography" >}}
