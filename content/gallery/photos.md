@@ -11,13 +11,14 @@ weight: 40
 
 title: Photography
 subtitle:
-
+tags: [photo]
 design:
   columns: '1'
 #  Options are `cover` (default), `contain`, or `actual` size.  
 # image_size: contain
 # Options include `left`, `center` (default), or `right`.
 #  image_position: center 
+
 
 ---
   
