@@ -26,7 +26,7 @@ content:
     - name: All
       tag: '*'
     - name: Photography
-      tag: photography
+      tag: photo
     - name: Creative Arts
       tag: creativearts
     - name: Others
