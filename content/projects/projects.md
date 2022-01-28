@@ -22,8 +22,8 @@ subtitle = ""
   filter_default = 0
   
   [[content.filter_button]]
-    name = "All"
-    tag = "*"
+     name = "All"
+      tag = "*"
   
   [[content.filter_button]]
      name = "Photography"
@@ -34,12 +34,12 @@ subtitle = ""
       tag = "creativearts"
     
   [[content.filter_button]]
-    name = "Technology"
+     name = "Technology"
       tag = "technology
     
   [[content.filter_button]]
-    name = "Other Projects"
-    tag = "other"
+     name = "Other Projects"
+      tag = "other"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
