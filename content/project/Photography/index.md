@@ -1,6 +1,6 @@
 ---
 title: Photography
-summary: An example of using the in-built project page.
+summary: A collection of photographs
 tags:
 - photo
 date: "2016-04-27T00:00:00Z"
