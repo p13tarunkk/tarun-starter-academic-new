@@ -15,7 +15,7 @@ subtitle:
 design:
   columns: '1'
   image_position: center
-  image_size: cover
+  image_size: contain
 #  Options are `cover` (default), `contain`, or `actual` size.  
 # Options include `left`, `center` (default), or `right`.
 
