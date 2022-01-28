@@ -22,7 +22,7 @@ main:
    
   - name: Creatives
     url: 'gallery/#creative'
-    weight: 40
+    weight: 50
    
  # - name: Talks
  #  url: '#talks'
