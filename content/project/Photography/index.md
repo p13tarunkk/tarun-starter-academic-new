@@ -6,7 +6,7 @@ tags:
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-# external_link: "https://www.tarunk.com/gallery/"
+external_link: "https://www.tarunk.com/gallery/"
 
 # image:
 # caption: Photo by rawpixel on Unsplash
@@ -31,8 +31,5 @@ date: "2016-04-27T00:00:00Z"
 # slides: example
 # add below three dash for creating new album page {{< gallery album="photography" >}}
 ---
-https://www.tarunk.com/gallery/
 
-
-(#creative)
 
