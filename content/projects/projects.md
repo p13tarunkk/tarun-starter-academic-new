@@ -24,16 +24,18 @@ page_type: "project"
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove toolbar, delete/comment all instances of `filter_button` below.
+  
   filter_button:
     - name: All
       tag: '*'
-    - name: "Photography"
+   - name: "Photography"
       tag: "Photography"
     - name: "creative Arts"
       tag: "creativearts"
     - name: "Technology"
       tag: "technology"
-design:
+      
+  design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
   # Toggle between the various page layout types.
