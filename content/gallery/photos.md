@@ -19,6 +19,8 @@ design:
 # Options include `left`, `center` (default), or `right`.
 #  image_position: center 
 
+tags: "photo"
+
 ---
   
 {{< gallery album="photography" >}}
