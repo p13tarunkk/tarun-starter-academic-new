@@ -19,6 +19,9 @@ design:
 # Options include `left`, `center` (default), or `right`.
 #  image_position: center 
 
+---
+
+
 filter_button:
     - name: All
       tag: '*'
@@ -27,5 +30,4 @@ filter_button:
     - name: Other
       tag: Demo
   
----
 {{< gallery album="photography" >}}
