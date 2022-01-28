@@ -1,3 +1,4 @@
+---
 widget: portfolio
 headless: true  # This file represents a page section.
 active: true
@@ -43,3 +44,4 @@ design:
   view: 3
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
+---
