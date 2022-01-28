@@ -30,4 +30,5 @@ date: "2016-04-27T00:00:00Z"
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-{{< gallery album="photography" >}}
+# {{< gallery album="photography" >}}
+[View]({{< relref "gallery/" >}})
