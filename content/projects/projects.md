@@ -25,6 +25,8 @@ content:
   filter_button:
     - name: All
       tag: '*'
+    - name: Technology
+      tag: tech
     - name: Photography
       tag: photo
     - name: Arts
