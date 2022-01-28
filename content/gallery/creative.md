@@ -9,11 +9,11 @@ headless: true
 # Order that this section appears on the page.
 weight: 66
 
-title: Gallery
+title: Creative Arts
 subtitle:
 
 design:
-  columns: '2'
+  columns: '1'
 ---
 
 {{< gallery album="creativearts" >}}
