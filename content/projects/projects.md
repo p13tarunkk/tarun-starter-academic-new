@@ -9,7 +9,7 @@ title : "Projects"
 subtitle : ""
 
   # Page type to display. E.g. project.
-  page_type: project
+page_type: "project"
 
 # Uncomment to only show content with specific tags
 #  filters:
