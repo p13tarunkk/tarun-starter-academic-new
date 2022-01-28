@@ -28,7 +28,19 @@ date: "2016-04-27T00:00:00Z"
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
+# add below three dash for creating new album page {{< gallery album="photography" >}}
 ---
-# {{< gallery album="photography" >}}
+https://www.tarunk.com/gallery/
+
+[A project]({{< relref "/gallery/" >}})
+
+{{< relref "/gallery/" >}}
+
+[A project]({{< relref "/project/my-page-name" >}})
+
 [View]({{< relref "gallery/" >}})
+
+{{< cite page="/gallery" view="4" >}}
+(#hi)
+
