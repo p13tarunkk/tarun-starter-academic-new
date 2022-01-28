@@ -20,7 +20,7 @@ main:
     url: 'gallery/'
     weight: 40
    
-  - name: Creatives
+  - name: Arts
     url: 'gallery/#creative'
     weight: 50
    
