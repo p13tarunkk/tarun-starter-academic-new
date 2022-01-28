@@ -11,6 +11,7 @@ weight: 66
 
 title: Creative Arts
 subtitle:
+tags = ["photo"]
 
 design:
   columns: '1'
