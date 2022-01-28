@@ -37,8 +37,6 @@ subtitle = ""
   
   # Text color (true=light or false=dark).
   text_color_light = true
-
-{{< gallery album="photography" >}} 
   
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -52,7 +50,5 @@ subtitle = ""
  css_class = ""
 +++
 
-## 👋 Welcome to the Academic Template
 
-
-
+{{< gallery album="photography" >}} 
