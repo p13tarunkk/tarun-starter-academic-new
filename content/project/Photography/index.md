@@ -33,14 +33,7 @@ date: "2016-04-27T00:00:00Z"
 ---
 https://www.tarunk.com/gallery/
 
-[A project]({{< relref "/gallery/" >}})
-
-{{< relref "/gallery/" >}}
-
-[A project]({{< relref "/project/my-page-name" >}})
-
-[View]({{< relref "gallery/" >}})
 
 {{< cite page="/gallery" view="4" >}}
-(#hi)
+(#creative)
 
