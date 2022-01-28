@@ -34,6 +34,5 @@ date: "2016-04-27T00:00:00Z"
 https://www.tarunk.com/gallery/
 
 
-{{< cite page="/gallery" view="4" >}}
 (#creative)
 
