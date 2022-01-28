@@ -38,6 +38,8 @@ subtitle = ""
   # Text color (true=light or false=dark).
   text_color_light = true
 
+{{< gallery album="<ALBUM-FOLDER>" >}} 
+  
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["20px", "0", "20px", "0"]
@@ -52,5 +54,5 @@ subtitle = ""
 
 ## 👋 Welcome to the Academic Template
 
-{{< gallery album="<ALBUM-FOLDER>" >}} 
+
 
