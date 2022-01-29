@@ -31,16 +31,18 @@ organizations:
     url: https://www.iima.ac.in/
 education:
   courses:
-    - course: Master of Business Administration (PGP - 2 yr M.B.A.)
+    - course: Master of Business Administration (PGP)
       institution: Indian Institute of Management, Ahmedabad, India
-      year: 2015
-    - course: Master’s Degree (Foreign Exchange), Business Management
-      institution: TBS, Toulouse, France (Ex-ESC Toulouse)
-      year: ""
-    - course: Delhi University - Bachelor of Engineering (4 yr degree), Computer
-        Science
+      year: "2013-2015"
+    - course: Master’s Degree, Business Management (Foreign Exchange)
+      institution: TBS, Toulouse, France <br> (Ex-ESC Toulouse)
+      year: "2014"
+    - course: Bachelor of Engineering, Computer Science
       institution: Netaji Subhas Institute of Technology, Delhi, India
-      year: 2008
+      year: "2007-2011"
+    - course: Master's In Arts, Psychology (part-time)
+      institution: IGNOU University, India
+      year: "2021-2023 (ongoing)"
 email: "tarun@prodbee.com"
 superuser: true
 highlight_name: true
