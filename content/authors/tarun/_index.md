@@ -45,5 +45,4 @@ email: "tarun@prodbee.com"
 superuser: true
 highlight_name: true
 ---
-Hi! I am Tarun a Product Management Professional/Consultant. My work is to enhance the experiences of people and improve their daily lives through Technology. I am a Business graduate (MBA) with Computer Science Degree (B.E.) and aiming to become a qualified Psychologist (M.A. Psychology 2020-22).
-My other interests are Photography, Sketching, Music (learning Ukulele) and School Boxing.
+Hi! I am Tarun a Product Management Professional/Consultant. My work is to enhance the experiences of people and improve their daily lives through Technology. My interests are Psychology, Photography, Sketching, Music (learning Ukulele) and School Boxing.
