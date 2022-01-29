@@ -14,8 +14,8 @@ font_size: L
 
 site_type: Person
 local_business_type: 'Product Manager'
-org_name: ''
-description: 'Tarun Kumar is a Technology Professional, an Artist and a Music Enthusiast. This is a personal project for him with a blog and gallery of his creative work'
+org_name: 'Prodbee'
+description: 'Tarun Kumar is a Technology Professional ( Product Management ), an Artist and a Music Enthusiast. This is a personal project for him with a blog and gallery of his creative work'
 twitter: 'https://twitter.com/theprodbee'
 
 # Contact (edit or remove options as required)
@@ -24,7 +24,7 @@ email: tarun@prodbee.com
 #  phone: 888 888 88 88
 address:
 #  street: 450 Serra Mall
-#  city: Bangalore
+city: Bangalore
 #   region: CA
 #   postcode: '94305'
 #   country: India
