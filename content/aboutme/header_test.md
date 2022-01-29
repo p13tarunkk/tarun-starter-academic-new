@@ -7,7 +7,7 @@ widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
-height = 500
+height = "400px"
 title = ""
 subtitle = ""
 
@@ -21,8 +21,8 @@ subtitle = ""
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
 
-  # Background color.
-  # color = "navy"
+   Background color.
+   color = "navy"
   
   # Background gradient.
   # gradient_start = "DarkGreen"
