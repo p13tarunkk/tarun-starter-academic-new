@@ -8,25 +8,25 @@ interests:
   - Product Management
   - User Experience
   - Psychology
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/theprodbee
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/tarun-product
-organizations:
-  - name: IIM Ahmedabad
-    url: https://www.iima.ac.in/
+# social: 
+#   - icon: envelope
+#     icon_pack: fas
+#     link: /#contact
+#   - icon: twitter
+#     icon_pack: fab
+#    link: https://twitter.com/theprodbee
+#   - icon: graduation-cap
+#     icon_pack: fas
+#     link: https://scholar.google.co.uk/citations?user=xyz
+#   - icon: github
+#     icon_pack: fab
+#     link: https://github.com/xyz
+#   - icon: linkedin
+#     icon_pack: fab
+#     link: xyz
+# organizations:
+#   - name: IIM Ahmedabad
+#     url: https://www.iima.ac.in/
 education:
   courses:
     - course: Master of Business Administration (PGP - 2 yr M.B.A.)
