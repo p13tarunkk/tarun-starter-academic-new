@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: 'mailto:tarun@prodbee.com'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/theprodbee
@@ -39,7 +39,7 @@ education:
         Science
       institution: Netaji Subhas Institute of Technology, Delhi, India
       year: 2008
-email: tarun@prodbee.com
+email: "tarun@prodbee.com"
 superuser: true
 highlight_name: true
 ---
