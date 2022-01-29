@@ -1,9 +1,11 @@
+---
 widget: hero
 headless: true  # This file represents a page section.
-
+weight: 10
 # ... Put Your Section Options Here (title etc.) ...
 
 # Hero image (optional). Enter filename of an image in the assets/media/ folder.
+
 hero_media: 'headers/shell_header_about.jpg'
 
 # Call to action links (optional).
@@ -21,3 +23,4 @@ hero_media: 'headers/shell_header_about.jpg'
 # Note. An optional note to show underneath the links.
 # cta_note:
 #  label: ''
+---
