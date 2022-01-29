@@ -35,7 +35,7 @@ education:
       institution: Indian Institute of Management, Ahmedabad, India
       year: "2013-2015"
     - course: Master’s Degree, Business Management (Foreign Exchange)
-      institution: TBS, Toulouse, France <br> (Ex-ESC Toulouse)
+      institution: TBS, Toulouse, France (Ex-ESC Toulouse)
       year: "2014"
     - course: Bachelor of Engineering, Computer Science
       institution: Netaji Subhas Institute of Technology, Delhi, India
