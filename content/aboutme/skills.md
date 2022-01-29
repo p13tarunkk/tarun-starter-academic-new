@@ -24,7 +24,7 @@ feature:
 # icon: chart-line
 # icon_pack: fas
   name: Technology
-- description: 30%
+- description: 40%
 # icon: camera-retro
 # icon_pack: fas
   name: "Arts :    Psychology, Photography, Design"
