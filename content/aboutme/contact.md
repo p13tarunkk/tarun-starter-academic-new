@@ -10,7 +10,7 @@ active: true
 # Order that this section appears on the page.
 weight: 130
 
-title: Contact
+title: Contact Me
 subtitle:
 
 content:
@@ -27,5 +27,5 @@ content:
       captcha: false
   
 design:
-  columns: '2'
+  columns: '1'
 ---
