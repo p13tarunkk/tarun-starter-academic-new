@@ -9,7 +9,7 @@ active: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: SKILLS
 subtitle:
 
 # Showcase personal skills or business features.
@@ -19,15 +19,15 @@ feature:
 - description: 30%
 # icon: r-project
 # icon_pack: fab
-  name: Business
+  name: "BUSINESS <br> <br> <br> <br> <br> <br> "
 - description: 30%
 # icon: chart-line
 # icon_pack: fas
-  name: Technology
+  name: "TECHNOLOGY <br> <br> <br> <br> <br> <br> "
 - description: 40%
 # icon: camera-retro
 # icon_pack: fas
-  name: "Arts :   <br> Psychology, Photography, Design"
+  name: "ARTS :   <br> <br>  Psychology, Photography, Design <br> "
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
