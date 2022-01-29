@@ -15,15 +15,15 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/theprodbee
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  # - icon: graduation-cap
+  #  icon_pack: fas
+  #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/p13tarunkk
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/tarun-product
+    link: https://www.linkedin.com/in/tarun-product/
 organizations:
   - name: IIM Ahmedabad
     url: https://www.iima.ac.in/
@@ -32,8 +32,7 @@ education:
     - course: Master of Business Administration (PGP - 2 yr M.B.A.)
       institution: Indian Institute of Management, Ahmedabad, India
       year: 2015
-    - course: Master’s Degree (Foreign Exchange), Business Management. - Aviation
-        business and Related Support Services
+    - course: Master’s Degree (Foreign Exchange), Business Management
       institution: TBS, Toulouse, France (Ex-ESC Toulouse)
       year: ""
     - course: Delhi University - Bachelor of Engineering (4 yr degree), Computer
