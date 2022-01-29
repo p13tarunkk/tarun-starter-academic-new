@@ -45,5 +45,5 @@ email: "tarun@prodbee.com"
 superuser: true
 highlight_name: true
 ---
-Hi! I am Tarun a Product Management Professional/Consultant. My work is to enhance the experiences of people and improve their daily lives through Technology. 
-My interests are Psychology, Photography, Sketching, Music (learning Ukulele) and School Boxing.
+Hi! I am Tarun, a Product Management Professional/Consultant. My work is around enhancing people's experiences and improving their daily lives through technology. 
+<br> My interests are Psychology, Photography, Sketching, Music (learning Ukulele) and School Boxing.
