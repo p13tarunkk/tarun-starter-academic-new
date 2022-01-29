@@ -5,8 +5,5 @@ date: "2019-01-01T00:00:00Z"  # Add today's date.
 type: "widget_page"  # Page type is a Widget Page
 headless: false  
 # Homepage is headless, other widget pages are not.
-header:
-  image: "headers/shell_header_about.jpg"
-  caption: "Image credit: [**Geo**](https://github.com/gcushen/)"
 
 ---
