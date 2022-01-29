@@ -27,7 +27,7 @@ feature:
 - description: 40%
 # icon: camera-retro
 # icon_pack: fas
-  name: "Arts :    Psychology, Photography, Design"
+  name: "Arts :   <br> Psychology, Photography, Design"
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
