@@ -6,7 +6,7 @@ weight: 10
 
 # Hero image (optional). Enter filename of an image in the assets/media/ folder.
 
-hero_media: 'headers/shell_header_about.jpg'
+hero_media: 'headers/oceantofflames.jpg'
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
