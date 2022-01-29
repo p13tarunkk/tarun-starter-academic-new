@@ -1,4 +1,5 @@
 ---
+#this is test hero widget to add hero media as header image. it did not work
 widget: hero
 headless: true  # This file represents a page section.
 weight: 10
