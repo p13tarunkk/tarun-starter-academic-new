@@ -19,15 +19,15 @@ feature:
 - description: 30%
 # icon: r-project
 # icon_pack: fab
-  name: "BUSINESS <br> <br> <br> <br> <br> <br> "
+  name: "<br> BUSINESS <br> <br> <br> "
 - description: 30%
 # icon: chart-line
 # icon_pack: fas
-  name: "TECHNOLOGY <br> <br> <br> <br> <br> <br> "
+  name: "<br>TECHNOLOGY <br> <br> <br>"
 - description: 40%
 # icon: camera-retro
 # icon_pack: fas
-  name: "ARTS :   <br> <br>  Psychology, Photography, Design <br> "
+  name: "<br> ARTS : <br> <br>  Psychology, Photography, Design <br> "
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
