@@ -25,7 +25,7 @@ experience:
     location: Bangalore
     date_start: "2020-04-01"
     date_end: ""
-    description: Competitive Intelligence, Pricing        
+    description: "Competitive Intelligence, Pricing"       
   - title: "Product Manager"
     company: "Lazada, Singapore (Alibaba Group)"
     company_url: 'https://www.lazada.sg/'
@@ -33,7 +33,7 @@ experience:
     location: "Bangalore, Singapore"
     date_start: '2019-05-01'
     date_end: '2020-03-31'
-    description: "App & Web User Experience, Order Management, Reverse Logistics, fulfilment"
+    description: "App & Web User Experience, Order Management, fulfilment"
  - title: Product Manager
     company: "Redmart, Singapore (Alibaba Group)"
     company_url: 'https://redmart.lazada.sg/'
