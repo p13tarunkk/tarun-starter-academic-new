@@ -42,7 +42,7 @@ experience:
     date_end: '2020-03-31'
     description: |2- 
             App & Web User Experience, Order Management,
-            Reverse Logistics, fulfilment
+            * Reverse Logistics, fulfilment
     
  - title: Product Manager
     company: "Redmart, Singapore (Alibaba Group)"
