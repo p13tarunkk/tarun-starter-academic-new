@@ -27,7 +27,8 @@ height = "400px"
   align = "center"
 
   # overlay_color = "#56B4E9"  # An HTML color value.
-  overlay_img = "headers/shells.jpg"  
+ overlay_img = "headers/shells.jpg"  
+ 
   # Image path relative to your `static/img/` folder.
   # overlay_filter = 0.2  
   # Darken the image. Value in range 0-1.
@@ -50,7 +51,8 @@ height = "400px"
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   # overlay_color = "#56B4E9"  
  # An HTML color value.
- overlay_img = "headers/skyline.JPG"  Image path relative to your `static/img/` folder.
+ overlay_img = "headers/skyline.JPG"  
+ # Image path relative to your `static/img/` folder.
   overlay_filter = 0.2  
  # Darken the image. Value in range 0-1.
 
