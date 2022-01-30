@@ -24,8 +24,9 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
-  - title: Lead Product Owner
-    company: Target Corp. USA
+
+  - title: 'Lead Product Owner'
+    company: 'Target Corp. USA'
     company_url: 'https://www.target.com/'
     company_logo: 
     location: Bangalore
@@ -33,11 +34,11 @@ experience:
     date_end: 'Present'
     description: 'Competitive Intelligence, Pricing'
         
-  - title: Product Manager
-    company: Lazada, Singapore (Alibaba Group)
+  - title: 'Product Manager'
+    company: 'Lazada, Singapore (Alibaba Group)'
     company_url: 'https://www.lazada.sg/'
     company_logo: 
-    location: Bangalore, Singapore
+    location: 'Bangalore, Singapore'
     date_start: '2019-05-01'
     date_end: '2020-03-31'
     description: 'App & Web User Experience, Order Management, Reverse Logistics, fulfilment' 
@@ -46,13 +47,13 @@ experience:
     company: Redmart, Singapore (Alibaba Group)
     company_url: 'https://redmart.lazada.sg/'
     company_logo: 
-    location: Bangalore, Singapore
+    location: 'Bangalore, Singapore'
     date_start: '2018-05-01'
     date_end: '2019-04-01'
     description: 'Online Groceries, Post-Checkout User Journey, CRM, Customer Help Center'
 
  - title: Product Manager
-    company: MagicBricks, India (Times Group)
+    company: 'MagicBricks, India (Times Group)'
     company_url: 'https://www.magicbricks.com/'
     company_logo: 
     location: Delhi
@@ -62,7 +63,7 @@ experience:
 
 
  - title: Product Manager
-    company: Ola Cabs, India (ANI Technologies)
+    company: 'Ola Cabs, India (ANI Technologies)'
     company_url: 'https://www.olacabs.com/'
     company_logo: 
     location: Delhi
@@ -71,8 +72,8 @@ experience:
     description: 'Ridesharing App Experience, Booking flow, Ola Play - Multimedia/IOT Platform'
      
        
- - title: Technology Lead Sales - Enterprise Products
-    company: AGC Networks, India (Formerly Avaya)
+ - title: 'Technology Lead Sales - Enterprise Products'
+    company: 'AGC Networks, India (Formerly Avaya)'
     company_url: 'https://www.agcnetworks.com/'
     company_logo: 
     location: Delhi
@@ -81,7 +82,7 @@ experience:
     description: 'Enterprise Unified Communications, Video-Conferencing, Contact-Center, Telephony Platform'
     
           
- - title: Entrepreneur / Consultant
+ - title: 'Entrepreneur / Consultant'
     company: Prodbee
     company_url: 'https://www.prodbee.com/'
     company_logo: 
@@ -89,6 +90,7 @@ experience:
     date_start: '2012-11-01'
     date_end: 'Present'
     description:  'Online platform, Technology Consulting and Open Source'
+
 design:
   columns: '2'
 ---
