@@ -22,6 +22,7 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 experience:
   - title: 'Lead Product Owner'
     company: 'Target Corp. USA'
@@ -29,7 +30,7 @@ experience:
     company_logo: org-x
     location: Bangalore
     date_start: '2020-04-01'
-    date_end: 'Present'
+    date_end: ''
     description: Competitive Intelligence, Pricing
         
   - title: 'Product Manager'
@@ -40,7 +41,8 @@ experience:
     date_start: '2019-05-01'
     date_end: '2020-03-31'
     description: |2- 
-            App & Web User Experience, Order Management, Reverse Logistics, fulfilment
+            App & Web User Experience, Order Management,
+            Reverse Logistics, fulfilment
     
  - title: Product Manager
     company: "Redmart, Singapore (Alibaba Group)"
