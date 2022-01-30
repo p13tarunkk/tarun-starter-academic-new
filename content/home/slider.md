@@ -22,20 +22,20 @@ height = "400px"
 
 
 [[item]]
-  title = "Book a workshop"
-  content = "Courses in the data manipulation and visualization in R, modeling, Shiny, and more."
+  title = ""
+  content = ""
   align = "center"
 
-  overlay_color = "#56B4E9"  # An HTML color value.
-  # overlay_img = "headers/tree.jpg"  
+  # overlay_color = "#56B4E9"  # An HTML color value.
+  overlay_img = "headers/shells.jpg"  
   # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.2  
+  # overlay_filter = 0.2  
   # Darken the image. Value in range 0-1.
   
-  cta_label = "See available workshops"
-  cta_url = "/training"
-  cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
+  # cta_label = "See available workshops"
+  # cta_url = "/training"
+  #  cta_icon_pack = "fas"
+  # cta_icon = "graduation-cap"
   
   use_pages = false
   
@@ -48,9 +48,9 @@ height = "400px"
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#56B4E9"  
+  # overlay_color = "#56B4E9"  
  # An HTML color value.
- # overlay_img = "headers/canyon.JPG"  Image path relative to your `static/img/` folder.
+ overlay_img = "headers/skyline.JPG"  Image path relative to your `static/img/` folder.
   overlay_filter = 0.2  
  # Darken the image. Value in range 0-1.
 
