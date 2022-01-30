@@ -55,7 +55,16 @@ experience:
     date_start: '2018-05-01'
     date_end: '2019-04-30'
     description: "Online Groceries UX, Post-Checkout User Journey, CRM, Customer Help Center"
-
+    
+  - title: "Product Manager"
+    company: "MagicBricks, India (Times Group)"
+    company_url: 'https://www.magicbricks.com/'
+    company_logo: 
+    location: Delhi
+    date_start: '2017-09-01'
+    date_end: '2018-04-30'
+    description: "Virtual Reality Experience Center, Low-touch UX, Real-estate Web Search & Discovery"
+    
 design:
   columns: '2'
 ---
