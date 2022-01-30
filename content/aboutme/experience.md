@@ -21,7 +21,7 @@ experience:
   - title: 'Lead Product Owner'
     company: "Target Corp. USA"
     company_url: 'https://www.target.com/'
-    company_logo: org-x
+    company_logo: 
     location: Bangalore
     date_start: '2020-04-01'
     date_end: ''
@@ -29,7 +29,7 @@ experience:
   - title: 'Product Manager'
     company: "Lazada, Singapore (Alibaba Group)"
     company_url: 'https://www.lazada.sg/'
-    company_logo: org-x
+    company_logo: 
     location: 'Bangalore, Singapore'
     date_start: '2019-05-01'
     date_end: '2020-03-31'
@@ -37,23 +37,23 @@ experience:
  - title: Product Manager
     company: "Redmart, Singapore (Alibaba Group)"
     company_url: 'https://redmart.lazada.sg/'
-    company_logo: org-x
+    company_logo: 
     location: 'Bangalore, Singapore'
     date_start: '2018-05-01'
-    date_end: '2019-04-01'
+    date_end: '2019-04-30'
     description: Online Groceries, Post-Checkout User Journey, CRM, Customer Help Center  
  - title: Product Manager
     company: "MagicBricks, India (Times Group)"
     company_url: 'https://www.magicbricks.com/'
-    company_logo: org-x
+    company_logo: 
     location: Delhi
     date_start: '2017-09-01'
-    date_end: '2019-04-31'
+    date_end: '2018-04-30'
     description: Virtual Reality Experience Center, Low-touch UX, Real-estate Web Search & Discovery
  - title: Product Manager
     company: "Ola Cabs, India (ANI Technologies)"
     company_url: 'https://www.olacabs.com/'
-    company_logo: org-x
+    company_logo: 
     location: Delhi
     date_start: '2015-04-01'
     date_end: '2017-08-31'
@@ -61,7 +61,7 @@ experience:
  - title: "Technology Lead Sales - Enterprise Products"
     company: "AGC Networks, India (Formerly Avaya)"
     company_url: 'https://www.agcnetworks.com/'
-    company_logo: org-x
+    company_logo: 
     location: Delhi
     date_start: '2011-07-01'
     date_end: '2012-10-31'
@@ -69,7 +69,7 @@ experience:
  - title: "Entrepreneur / Consultant"
     company: Prodbee
     company_url: 'https://www.prodbee.com/'
-    company_logo: org-x
+    company_logo: 
     location: Bengaluru
     date_start: '2012-11-01'
     date_end: 'Present'
