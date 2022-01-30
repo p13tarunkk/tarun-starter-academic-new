@@ -30,7 +30,7 @@ experience:
     location: Bangalore
     date_start: '2021-04-01'
     date_end: ''
-    description:   "Competitive Intelligence, Pricing"
+    description:   "Competitive Intelligence, E-commerce & Retail Pricing"
    # description: |2-
    #     Responsibilities include:
    #    
@@ -41,11 +41,20 @@ experience:
   - title: "Product Manager"
     company: "Lazada, Singapore (Alibaba Group)"
     company_url: 'https://www.lazada.sg/'
-    company_logo: org-x
+    company_logo: 
     location: "Bangalore, Singapore"
     date_start: '2019-05-01'
     date_end: '2020-03-31'
     description: "App & Web User Experience, Order Management, fulfilment"
+    
+  - title: "Product Manager"
+    company: "Redmart, Singapore (Alibaba Group)"
+    company_url: 'https://redmart.lazada.sg/'
+    company_logo:
+    location: "Bangalore, Singapore"
+    date_start: '2018-05-01'
+    date_end: '2019-04-30'
+    description: "Online Groceries UX, Post-Checkout User Journey, CRM, Customer Help Center"
 
 design:
   columns: '2'
