@@ -30,7 +30,7 @@ experience:
     location: California
     date_start: '2021-01-01'
     date_end: ''
-  description:   "App & Web User Experience, Order Management, fulfilment"
+    description:   "App & Web User Experience, Order Management, fulfilment"
    # description: |2-
    #     Responsibilities include:
    #    
