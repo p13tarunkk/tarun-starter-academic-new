@@ -65,6 +65,33 @@ experience:
     date_end: '2018-04-30'
     description: "Virtual Reality Experience Center, Low-touch UX, Real-estate Web Search & Discovery"
     
+  - title: Product Manager
+    company: "Ola Cabs, India (ANI Technologies)"
+    company_url: 'https://www.olacabs.com/'
+    company_logo: 
+    location: Delhi
+    date_start: '2015-04-01'
+    date_end: '2017-08-31'
+    description: "Ridesharing App Experience, Booking flow, Ola Play - Multimedia/IOT Platform"
+    
+ - title: "Technology Lead Sales - Enterprise Products"
+    company: "AGC Networks, India (Formerly Avaya)"
+    company_url: 'https://www.agcnetworks.com/'
+    company_logo: 
+    location: Delhi
+    date_start: '2011-07-01'
+    date_end: '2012-10-31'
+    description: "Enterprise Unified Communications, Video-Conferencing, Contact-Center, Telephony Platform" 
+    
+ - title: "Entrepreneur / Consultant"
+    company: Prodbee
+    company_url: 'https://www.prodbee.com/'
+    company_logo: 
+    location: Bengaluru
+    date_start: '2012-11-01'
+    date_end: 'Present'
+    description:  "Online platform, Technology Consulting and Open Source"
+
 design:
   columns: '2'
 ---
