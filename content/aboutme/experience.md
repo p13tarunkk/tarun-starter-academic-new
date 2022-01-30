@@ -90,7 +90,7 @@ experience:
     location: Bengaluru
     date_start: '2012-11-01'
     date_end: ''
-    description:  "Online platform, Technology Consulting and Open Source"
+    description:  "Online platforms, Technology Consulting and Open Source"
 
 design:
   columns: '2'
