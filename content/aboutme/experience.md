@@ -10,7 +10,7 @@ active: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Product Management Experience
+title: "Product Management Experience"
 subtitle:
 
 # Date format for experience
@@ -22,9 +22,7 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-
 experience:
-
   - title: 'Lead Product Owner'
     company: 'Target Corp. USA'
     company_url: 'https://www.target.com/'
@@ -32,7 +30,7 @@ experience:
     location: Bangalore
     date_start: '2020-04-01'
     date_end: 'Present'
-    description: 'Competitive Intelligence, Pricing'
+    description: Competitive Intelligence, Pricing
         
   - title: 'Product Manager'
     company: 'Lazada, Singapore (Alibaba Group)'
@@ -41,45 +39,45 @@ experience:
     location: 'Bangalore, Singapore'
     date_start: '2019-05-01'
     date_end: '2020-03-31'
-    description: 'App & Web User Experience, Order Management, Reverse Logistics, fulfilment' 
+    description: App & Web User Experience, Order Management, Reverse Logistics, fulfilment
     
  - title: Product Manager
-    company: Redmart, Singapore (Alibaba Group)
+    company: "Redmart, Singapore (Alibaba Group)"
     company_url: 'https://redmart.lazada.sg/'
     company_logo: org-x
     location: 'Bangalore, Singapore'
     date_start: '2018-05-01'
     date_end: '2019-04-01'
-    description: 'Online Groceries, Post-Checkout User Journey, CRM, Customer Help Center'
+    description: Online Groceries, Post-Checkout User Journey, CRM, Customer Help Center
 
  - title: Product Manager
-    company: 'MagicBricks, India (Times Group)'
+    company: "MagicBricks, India (Times Group)"
     company_url: 'https://www.magicbricks.com/'
     company_logo: org-x
     location: Delhi
     date_start: '2017-09-01'
     date_end: '2019-04-31'
-    description: 'Virtual Reality Experience Center, Low-touch UX, Real-estate Web Search & Discovery'
+    description: Virtual Reality Experience Center, Low-touch UX, Real-estate Web Search & Discovery
 
 
  - title: Product Manager
-    company: 'Ola Cabs, India (ANI Technologies)'
+    company: "Ola Cabs, India (ANI Technologies)"
     company_url: 'https://www.olacabs.com/'
     company_logo: org-x
     location: Delhi
     date_start: '2015-04-01'
     date_end: '2017-08-31'
-    description: 'Ridesharing App Experience, Booking flow, Ola Play - Multimedia/IOT Platform'
+    description: Ridesharing App Experience, Booking flow, Ola Play - Multimedia/IOT Platform
      
        
  - title: 'Technology Lead Sales - Enterprise Products'
-    company: 'AGC Networks, India (Formerly Avaya)'
+    company: "AGC Networks, India (Formerly Avaya)"
     company_url: 'https://www.agcnetworks.com/'
     company_logo: org-x
     location: Delhi
     date_start: '2011-07-01'
     date_end: '2012-10-31'
-    description: 'Enterprise Unified Communications, Video-Conferencing, Contact-Center, Telephony Platform'
+    description: Enterprise Unified Communications, Video-Conferencing, Contact-Center, Telephony Platform
     
           
  - title: 'Entrepreneur / Consultant'
@@ -89,7 +87,7 @@ experience:
     location: Bengaluru
     date_start: '2012-11-01'
     date_end: 'Present'
-    description:  'Online platform, Technology Consulting and Open Source'
+    description:  Online platform, Technology Consulting and Open Source
 
 design:
   columns: '2'
