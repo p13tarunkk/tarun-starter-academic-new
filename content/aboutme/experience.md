@@ -23,7 +23,7 @@ experience:
     company_url: 'https://www.target.com/'
     company_logo: 
     location: Bangalore
-    date_start: "2020-04-01"
+    date_start: Jan 2006
     date_end: ""
     description: "Competitive Intelligence, Pricing"       
   - title: "Product Manager"
