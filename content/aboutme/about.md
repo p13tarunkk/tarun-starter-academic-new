@@ -46,4 +46,4 @@ He is an MBA and a Computer Engineering graduate from prestigious Indian institu
 Outside his profession, he enjoys learning psychology, photography, realistic sketching and writing about Product Management Strategies on his own website Prodbee.com.
 In his own words - "I am passionate about helping Users and Businesses win together"
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Tarun_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/Tarun_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
