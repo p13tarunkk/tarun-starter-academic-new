@@ -39,7 +39,8 @@ experience:
     location: 'Bangalore, Singapore'
     date_start: '2019-05-01'
     date_end: '2020-03-31'
-    description: App & Web User Experience, Order Management, Reverse Logistics, fulfilment
+    description: |2- 
+            App & Web User Experience, Order Management, Reverse Logistics, fulfilment
     
  - title: Product Manager
     company: "Redmart, Singapore (Alibaba Group)"
@@ -49,7 +50,7 @@ experience:
     date_start: '2018-05-01'
     date_end: '2019-04-01'
     description: Online Groceries, Post-Checkout User Journey, CRM, Customer Help Center
-
+    
  - title: Product Manager
     company: "MagicBricks, India (Times Group)"
     company_url: 'https://www.magicbricks.com/'
