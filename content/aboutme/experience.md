@@ -85,10 +85,10 @@ experience:
     company: Prodbee
     company_url: 'https://www.prodbee.com/'
     company_logo: 
-    location: Delhi
+    location: Bengaluru
     date_start: '2012-11-01'
     date_end: 'Present'
-    description:  'Technology Consulting and Open Source'
+    description:  'Online platform, Technology Consulting and Open Source'
 design:
   columns: '2'
 ---
