@@ -25,12 +25,12 @@ date_format: Jan 2006
 experience:
   - title: "Product Manager"
     company: "Target Corp. USA"
-    company_url: ''
+    company_url: 'https://www.target.com/'
     company_logo:
     location: Bangalore
     date_start: '2021-04-01'
     date_end: ''
-    description:   "App & Web User Experience, Order Management, fulfilment"
+    description:   "Competitive Intelligence, Pricing"
    # description: |2-
    #     Responsibilities include:
    #    
@@ -38,14 +38,14 @@ experience:
    #     * Modelling
    #    * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: "Product Manager"
+    company: "Lazada, Singapore (Alibaba Group)"
+    company_url: 'https://www.lazada.sg/'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: "Bangalore, Singapore"
+    date_start: '2019-05-01'
+    date_end: '2020-03-31'
+    description: "App & Web User Experience, Order Management, fulfilment"
 
 design:
   columns: '2'
