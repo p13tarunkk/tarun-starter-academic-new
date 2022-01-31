@@ -1,4 +1,5 @@
 ---
+ # Sample slide deactivated unpublished by changing date to future date
 title: Slides
 summary: An introduction to using Wowchemy's Slides feature.
 authors: []
