@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear in.
 
-title = "About me"
+title = "Tarun Kumar"
 
 # Choose the user profile to display
 # This should be the username of a profile in your `content/authors/` folder.
@@ -36,5 +36,5 @@ title = "About me"
  # Custom CSS. 
  css_style = ""
 +++
-Hi! I am Tarun, a Product Management Professional/Consultant. My work is around enhancing people's experiences and improving their daily lives through technology. 
+I am Tarun, a Product Management Professional/Consultant. My work is around enhancing people's experiences and improving their daily lives through technology. 
 <br> My interests are Psychology, Photography, Sketching, Music (learning Ukulele) and School Boxing.
