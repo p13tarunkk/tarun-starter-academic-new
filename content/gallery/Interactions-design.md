@@ -21,4 +21,4 @@ design:
 
 ---
   
-{{< gallery album="UIUX" >}}
+{{< gallery album="interactiondesign" >}}
