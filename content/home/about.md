@@ -36,5 +36,5 @@ title = "Tarun Kumar"
  # Custom CSS. 
  css_style = ""
 +++
-I am Tarun, a Product Management Professional/Consultant. My work is focussed around enhancing people's experiences and improving their daily lives through technology. 
-<br> My interests are Psychology, Photography, Sketching, Music (learning Ukulele) and School Boxing.
+Product Management Professional focussed around enhancing people's experiences and improving their daily lives through technology. 
+<br> Eternal learner of all sorts - Psychology, Photography, Interaction Design, Sketching, Music (Ukulele) and School Boxing
