@@ -1,6 +1,6 @@
 ---
 title: Photography
-summary: A collection of photographs
+summary: Collection of photographs
 tags:
 - photo
 date: "2016-04-27T00:00:00Z"
