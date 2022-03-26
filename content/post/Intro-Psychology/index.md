@@ -9,10 +9,10 @@ summary: Social Psychology, its evolution and scope
 projects: []
 
 # Date published
-date: "2022-01-29T00:00:00Z"
+date: "2022-03-26T00:00:00Z"
 
 # Date updated
-lastmod: "2022-01-30T00:00:00Z"
+lastmod: "2022-03-26T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -25,7 +25,7 @@ featured: true
 image:
   caption: 'Image credit: Myself'
   focal_point: ""
-  placement: 2
+  placement: 1
   preview_only: false
 
 authors:
@@ -38,7 +38,7 @@ tags:
 # - 
 
 ---
-Social psychology is the study of how people think about, influence and relate to others. It explores how Individual or group behaviors are influenced by the presence and behavior of others (social situation).  Sociology studies the nature of society, whereas psychology studies the nature of humans. Social psychology, on the other hand, studies the nature of man and his interaction with society. 
+<b>Social psychology</b> is the study of how people think about, influence and relate to others. It explores how Individual or group behaviors are influenced by the presence and behavior of others (social situation).  Sociology studies the nature of society, whereas psychology studies the nature of humans. Social psychology, on the other hand, studies the nature of man and his interaction with society. 
 Concept
 The concept of social psychology is around society and its focus is on individual.
 Individuals' behaviour is shaped by societies, which manifest themselves through people's activities, communication, and contact. We can learn about the dynamics of human behaviour in social circumstances by studying social psychology.
@@ -50,7 +50,7 @@ Ecological Variables: direct and indirect influences of the physical environment
 The cultural context: cultural norms, membership in various groups.
 Biological aspects of human behaviour and genetic inheritance relevant to social behaviour.
 
-SCOPE OF SOCIAL PSYCHOLOGY
+<b>SCOPE OF SOCIAL PSYCHOLOGY</b>
 
 Social psychology attempts to understand the relationship between minds, groups, and behaviors in three general ways:
 1)  It tries to see how the thoughts, feelings and behaviours of individuals are influenced by social perception, social interaction, and the many kinds of social influence (like trust, power, and persuasion). 
@@ -58,9 +58,9 @@ Social psychology attempts to understand the relationship between minds, groups,
 3)  Third, and finally, social psychology tries to understand groups themselves as behavioural entities, and the relationships and influences that one group has upon another group.
 Sometimes there is also fourth level called the “ideological” level (especially in European psychology). It studies the societal forces that influence the human psyche.
 
-EMERGENCE OF MODERN SOCIAL PSYCHOLOGY
+<b>EMERGENCE OF MODERN SOCIAL PSYCHOLOGY</b>
 
-<b>Early Stages</b>
+<b>Early Stages</b><br>
 Two earlier forms of social thought over the centuries are Platonic and Aristotelian.
 The importance of the state in Platonic thought was emphasised over the individual, who needed to be trained to become really social. 
 Human beings are social by nature, according to Aristotelian theory, and nature can be trusted to allow individuals to live together and form personal ties from which families, tribes, and eventually the state will naturally evolve.
