@@ -3,7 +3,7 @@ title: Social Psychology
 subtitle: Understading Social Psychology - Scope & Emergence
 
 # Summary for listings and search engines
-summary: This is a personal portfolio built by me as I seek more ways to further randomize my life experiences
+summary: Social Psychology, its evolution and scope
 
 # Link this post with a project
 projects: []
@@ -60,7 +60,7 @@ Sometimes there is also fourth level called the “ideological” level (especia
 
 EMERGENCE OF MODERN SOCIAL PSYCHOLOGY
 
-Early Stages
+<b>Early Stages</b>
 Two earlier forms of social thought over the centuries are Platonic and Aristotelian.
 The importance of the state in Platonic thought was emphasised over the individual, who needed to be trained to become really social. 
 Human beings are social by nature, according to Aristotelian theory, and nature can be trusted to allow individuals to live together and form personal ties from which families, tribes, and eventually the state will naturally evolve.
@@ -70,18 +70,18 @@ Hedonism: People act in order to secure and maintain pleasure and to avoid and r
 Utilitarianism: The doctrine that advocates the pursuit of the greatest happiness of the greatest number.
 The basic principles of individual satisfaction (reinforcement, reward, stress reduction, dissonance reduction, uncertainty reduction) are versions of the pleasure or utility principle in most modern theories of conditioning and motivation. Many social psychology theories include utility and satisfaction as fundamental characteristics. 
 
-Second Stage
+<b>Second Stage</b><br>
 In the process SOCIAL PSYCHOLOGY branched off from the psychology as a separate discipline and Emerges as a Discipline
 The requirement concerning the solution of socio-psychological problems aroused in various related sciences.
 The processes involved in the separation of socio-psychological problems within the two parent disciplines: psychology and sociology.
 Finally, the description of the first of independent socio- psychological knowledge in the forms of socio-psychological theories: people’s psychology, mass psychology and the theory of instincts of social behaviour. 
 
-People’s Psychology
+<b>People’s Psychology</b> <br>
 People’s psychology developed as one of the first forms of socio-psychological theory in Germany in the mid 19th century. It was considered that the main force of history is the people, or the ‘spirit of the whole’, which can be seen in art, religion, language, myths, customs etc. 
 The individual consciousness is only its product, a link in a certain mental connection. The task of social psychology was to perceive the psychological essence of the spirit of the people and discover the laws that guide the spiritual activity of the people.
 Physiological psychology, in views of Wilhem Wundt (1832-1920)  was an experimental discipline, but experimentation is not useful for the study of higher mental processes: thinking and language. People’s psychology considered language, myths, customs, art and religion as objectives of study (called clots of ideology or crystals).
 
-Mass Psychology
+<b>Mass Psychology</b><br>
 Any gathering of individuals symbolised the concept of the mass, characterised by depersonalization and the primacy of emotions over intellect, as well as a general loss of intellect and a feeling of personal responsibility. Events such as mass movements in the late 19th and early 20th centuries, rapid social and economic developments as a result of industrialisation and urbanisation aided mass psychology, but had little impact on the future of social psychology.
 Social psychology is the scientific study of the experience and behaviour of individuals in relation to other individuals, group and culture. 
 The social psychology approach is different from disciplines that research large-scale societal issues and those that concentrate on individuals. The socio-psychological ideas developed first in philosophy and subsequently gradually separated from the psychological knowledge system. People's psychology and mass psychology were the first types of socio-psychological research.
