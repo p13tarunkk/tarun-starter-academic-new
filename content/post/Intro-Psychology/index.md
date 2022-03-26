@@ -38,17 +38,19 @@ tags:
 # - 
 
 ---
-<b>Social psychology</b> is the study of how people think about, influence and relate to others. It explores how Individual or group behaviors are influenced by the presence and behavior of others (social situation).  Sociology studies the nature of society, whereas psychology studies the nature of humans. Social psychology, on the other hand, studies the nature of man and his interaction with society. 
-Concept
+<b>Social psychology</b> is the study of <u>how people think about, influence and relate to others</u>. It explores how Individual or group behaviors are influenced by the presence and behavior of others (social situation).  Sociology studies the nature of society, whereas psychology studies the nature of humans. Social psychology, on the other hand, studies the nature of man and his interaction with society. <br>
+<u>Concept</u> <br>
 The concept of social psychology is around society and its focus is on individual.
 Individuals' behaviour is shaped by societies, which manifest themselves through people's activities, communication, and contact. We can learn about the dynamics of human behaviour in social circumstances by studying social psychology.
 The applications of this discipline are in the areas of industry, education, health, mass communication system, struggle against anti-social behaviour, public services and sports etc.
 It explains and analyses the causes behind behaviors which may be related to the one or more than one social interaction factors mentioned below 5 factors :-
-The action and characteristics of others.
-Basic cognitive processes: memory, reasoning, belief, ideas, judgements about others.
-Ecological Variables: direct and indirect influences of the physical environment
-The cultural context: cultural norms, membership in various groups.
-Biological aspects of human behaviour and genetic inheritance relevant to social behaviour.
+<ul> 
+<li>The action and characteristics of others.</li>
+<li>Basic cognitive processes: memory, reasoning, belief, ideas, judgements about others.</li>
+<li>Ecological Variables: direct and indirect influences of the physical environment</li>
+<li>The cultural context: cultural norms, membership in various groups.</li>
+<li>Biological aspects: human behaviour and genetic inheritance relevant to social behaviour.</li>
+</ul>  
 
 <b>SCOPE OF SOCIAL PSYCHOLOGY</b>
 
@@ -76,12 +78,12 @@ The requirement concerning the solution of socio-psychological problems aroused 
 The processes involved in the separation of socio-psychological problems within the two parent disciplines: psychology and sociology.
 Finally, the description of the first of independent socio- psychological knowledge in the forms of socio-psychological theories: people’s psychology, mass psychology and the theory of instincts of social behaviour. 
 
-<b>People’s Psychology</b> <br>
+<u>People’s Psychology</u> <br>
 People’s psychology developed as one of the first forms of socio-psychological theory in Germany in the mid 19th century. It was considered that the main force of history is the people, or the ‘spirit of the whole’, which can be seen in art, religion, language, myths, customs etc. 
 The individual consciousness is only its product, a link in a certain mental connection. The task of social psychology was to perceive the psychological essence of the spirit of the people and discover the laws that guide the spiritual activity of the people.
 Physiological psychology, in views of Wilhem Wundt (1832-1920)  was an experimental discipline, but experimentation is not useful for the study of higher mental processes: thinking and language. People’s psychology considered language, myths, customs, art and religion as objectives of study (called clots of ideology or crystals).
 
-<b>Mass Psychology</b><br>
+<u>Mass Psychology</u><br>
 Any gathering of individuals symbolised the concept of the mass, characterised by depersonalization and the primacy of emotions over intellect, as well as a general loss of intellect and a feeling of personal responsibility. Events such as mass movements in the late 19th and early 20th centuries, rapid social and economic developments as a result of industrialisation and urbanisation aided mass psychology, but had little impact on the future of social psychology.
 Social psychology is the scientific study of the experience and behaviour of individuals in relation to other individuals, group and culture. 
 The social psychology approach is different from disciplines that research large-scale societal issues and those that concentrate on individuals. The socio-psychological ideas developed first in philosophy and subsequently gradually separated from the psychological knowledge system. People's psychology and mass psychology were the first types of socio-psychological research.
