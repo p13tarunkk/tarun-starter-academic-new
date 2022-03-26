@@ -36,7 +36,7 @@ title = "Tarun Kumar"
  # Custom CSS. 
  css_style = ""
 +++
-Product Management Professional focussed around enhancing people's experiences and improving their daily lives through technology. <br>
+<b>Product Management Professional</b> focussed around enhancing People's Experiences and improving their Daily lives through Technology. <br>
 <br> <ul type="circle">  
   <li>Eternal learner of all sorts - <i>Psychology, Photography, Interaction Design, Sketching, Music (Ukulele) and School Boxing </i></li>
   </ul>  
