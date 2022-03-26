@@ -1,6 +1,6 @@
 ---
 title: Arts
-summary: A collection of artworks
+summary: Collection of artworks
 tags:
 - arts
 date: "2016-04-27T00:00:00Z"
