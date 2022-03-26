@@ -3,7 +3,7 @@ title: Interaction Design
 summary: UI/UX
 tags:
 - others
-date: "2022-03-27T00:00:00Z"
+date: "2022-03-26T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.tarunk.com/gallery/#Interactiondesignpage"
