@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Photography
-subtitle:
+subtitle: DSLR
 design:
   columns: '1'
 #  Options are `cover` (default), `contain`, or `actual` size.  
