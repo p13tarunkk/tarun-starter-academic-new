@@ -47,14 +47,15 @@ email: "tarun@prodbee.com"
 superuser: true
 highlight_name: true
 ---
-Tarun has rich experience of building and managing digital Products in companies like Target.com (Target Corp USA), Redmart.com, Lazada.com (Alibaba Group Singapore), MLabs - MagicBricks (Times Group) and Ola Cabs.
+I have diverse experience of building and managing multiple digital Products from companies like Target.com (Target Corp USA), Redmart.com, Lazada.com (Alibaba Group Singapore), MLabs - MagicBricks (Times Group) and Ola Cabs.
 
-In his Product Management career, he has been building technology enabled high-growth, scalable and customer centric businesses, one product at a time - Ola Play ( IOT / connected cars ), Lazada E-Commerce, Online Supermarket / Grocery shopping, Virtual Reality / 3D enabled Real estate Experience Centers, Ola Pricing platforms and Ola Consumer App UI/UX.
+As a Product Manager, I have been building technology enabled high-growth, scalable and customer centric businesses, one product at a time - Ola Play (IOT / connected cars), Lazada E-Commerce, Online Supermarket / Grocery shopping, Virtual Reality / 3D enabled Real estate Experience Centers, Ola Pricing platforms and Ola Consumer App UI/UX.
 
-He is an MBA and a Computer Engineering graduate from prestigious Indian institutions - IIM Ahmedabad and Delhi University. He holds expertise with credentials in UI/UX, Human Computer Interaction, Design thinking, Data Analytics, Agile methodologies, Enterprise Technologies, Mobile Apps and Web. Continuing his infinite pursuit for learning, he is currently pursuing M.A. Psychology degree alongside in distance learning mode.
+I am an MBA and a Computer Engineering graduate from prestigious Indian institutions - IIM Ahmedabad and Delhi University. I hold expertise with credentials in UI/UX, Human Computer Interaction, Design thinking, Data Analytics, Agile methodologies, Enterprise Technologies, Mobile Apps and Web. Continuing his infinite pursuit for learning, he is currently pursuing M.A. Psychology degree alongside in distance learning mode.
 
-Outside his profession, he enjoys learning psychology, photography, realistic sketching and writing about Product Management Strategies on his own website Prodbee.com.
-In his own words - "I am passionate about helping Users and Businesses win together"
+Outside my profession, I enjoy learning psychology, photography, realistic sketching and writing about Product Management Strategies on his own website Prodbee.com
 
-{{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/Tarun_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+"I am passionate about helping Users and Businesses win together"
+
+Download my {{< staticref "uploads/Tarun_resume.pdf" "newtab" >}}resumé {{< icon name="download" pack="fas" >}} {{< /staticref >}}.
 

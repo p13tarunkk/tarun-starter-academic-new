@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear in.
 
-title = "Tarun Kumar"
+title = "TARUN KUMAR"
 
 # Choose the user profile to display
 # This should be the username of a profile in your `content/authors/` folder.
@@ -36,7 +36,7 @@ title = "Tarun Kumar"
  # Custom CSS. 
  css_style = ""
 +++
-<b>Product Management Professional</b> focussed around enhancing People's Experiences and improving their Daily lives through Technology. <br>
+<b>Product Management Professional</b> with the mission - <br> To enhance people's experiences and improve daily lives through technology <br>
 <br> <ul type="circle">  
-  <li>Eternal learner of all sorts - <i>Psychology, Photography, Interaction Design, Sketching, Music (Ukulele) and School Boxing </i></li>
+  <li>Eternal Learner of all sorts - <i>Psychology, Photography, Interaction Design, Sketching, Music (Ukulele) and School Boxing </i></li>
   </ul>  

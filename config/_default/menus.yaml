@@ -7,14 +7,18 @@ main:
  # - name: Home
  #   url: '#about'. # is for home sections
  #   weight: 10
-  - name: Posts
+  - name: Blog
 #   url: '#posts'
     url: 'post/'
     weight: 20
-  - name: Projects
+#  - name: Projects
 #   url: '#projects' org
-    url: 'projects/'
-    weight: 30
+#     url: 'projects/'
+#     weight: 30
+
+  - name: Design
+    url: 'gallery/#Interactiondesignpage'
+    weight: 55
     
   - name: Photography
     url: 'gallery/'
