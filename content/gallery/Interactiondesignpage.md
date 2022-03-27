@@ -11,6 +11,8 @@ weight: 85
 
 title: Interaction Design
 subtitle:
+tags:
+- photo
 design:
   columns: '1'
 #  Options are `cover` (default), `contain`, or `actual` size.  
@@ -20,5 +22,6 @@ design:
 
 
 ---
+
 {{< gallery album="interactiondesign" >}}
   
