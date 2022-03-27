@@ -36,7 +36,7 @@ title = "TARUN KUMAR"
  # Custom CSS. 
  css_style = ""
 +++
-<b>Product Management Professional</b> with the mission - <br> To enhance people's experiences and improve daily lives through technology <br>
+<b>Product Management Professional</b> with the mission - <br> To enhance people's experiences & improve daily lives through technology <br>
 <br> <ul type="circle">  
   <li>Eternal Learner of all sorts - <i>Psychology, Photography, Interaction Design, Sketching, Music (Ukulele) and School Boxing </i></li>
   </ul>  
